@@ -14,6 +14,7 @@ path_file=os.getcwd()
 path_file=path_file+ '\\Data.mat'
 pygame.init()
 pie=math.pi
+kxkn=0 #no use
 marginx=0
 marginy=0
 pw=540
